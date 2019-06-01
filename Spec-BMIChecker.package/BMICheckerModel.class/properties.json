@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Model",
+	"category" : "Spec-BMIChecker",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"height",
+		"weight",
+		"bmi"
+	],
+	"name" : "BMICheckerModel",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+accessing
+bmiLabel
+	^ bmiLabel

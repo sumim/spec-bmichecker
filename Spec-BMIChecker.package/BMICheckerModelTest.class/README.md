@@ -1,0 +1,1 @@
+A BMICheckerModelTest is a test class for testing the behavior of BMICheckerModel

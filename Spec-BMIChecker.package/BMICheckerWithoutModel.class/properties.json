@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "ComposablePresenter",
+	"category" : "Spec-BMIChecker",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"heightLabel",
+		"heightUnit",
+		"weightLabel",
+		"weightUnit",
+		"bmiLabel",
+		"bmiText",
+		"heightText",
+		"weightText"
+	],
+	"name" : "BMICheckerWithoutModel",
+	"type" : "normal"
+}
